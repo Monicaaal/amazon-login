@@ -26,3 +26,8 @@ Sl no | git commands | Description |
 9 | git ignore | Specifies files and folders that Git should ignore |
 10 | git branch | Creates, lists, or deletes branches in a repository |
 
+
+
+
+
+
